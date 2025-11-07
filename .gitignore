@@ -1,5 +1,7 @@
 # Node modules
 node_modules/
+notes-app-client/node_modules/
+notes-app-server/node_modules/
 
 # Environment variables
 .env
